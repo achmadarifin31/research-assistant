@@ -1,2 +1,17 @@
+# Docs
 docs/Implementation Plan.md
+
+# Environments
 .venv
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
