@@ -45,4 +45,4 @@ uv run pytest -m integration       # hanya test live API
 
 ## Status
 
-Dalam pengembangan: lapisan sumber literatur (OpenAlex, Semantic Scholar, arXiv) beserta penggabungan & deduplikasi hasil.
+Dalam pengembangan: lapisan sumber literatur (OpenAlex, Semantic Scholar, arXiv) dan sistem sitasi (penomoran stabil + daftar pustaka IEEE dwibahasa).
