@@ -45,4 +45,4 @@ uv run pytest -m integration       # hanya test live API
 
 ## Status
 
-Tahap awal: penyiapan struktur proyek dan kerangka modul.
+Dalam pengembangan: lapisan sumber literatur (OpenAlex, Semantic Scholar, arXiv) beserta penggabungan & deduplikasi hasil.
